@@ -1,4 +1,4 @@
-# encrypted_ddecrypted_password_admin_system
+# encrypted_decrypted_password_admin_system
 
 encrypted password system for administration users.
 
