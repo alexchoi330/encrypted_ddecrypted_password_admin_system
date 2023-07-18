@@ -8,7 +8,7 @@ encrypted password system for administration users.
 
 -encrypted key 
 
--Fernet module import
+-modules: Fernet | OS 
 
 
 
