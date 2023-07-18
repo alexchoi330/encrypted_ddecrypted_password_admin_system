@@ -1,10 +1,14 @@
 # encrypted_ddecrypted_password_admin_system
 
-encrypted password system for administration users
+encrypted password system for administration users.
+
 -master password
+
 -database with customer usernames and passwords
+
 -encrypted key 
 
+-Fernet module import
 
 
 
